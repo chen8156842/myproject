@@ -167,6 +167,6 @@
           
     </dependencies>  
   <build>
-    <finalName>cw</finalName>
+    <finalName>ssm</finalName>
   </build>
 </project>
